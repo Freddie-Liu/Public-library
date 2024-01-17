@@ -1,7 +1,7 @@
 # Public-library
-![Logo for the TidyTuesday project, represented by the word TidyTuesday over a messy splash of black paint](static/tt_logo.png)
 
-## About TidyTuesday
+
+## About this idea
 
 - `TidyTuesday` is a weekly social data project. All are welcome to participate! Please remember to share the code used to generate your results!
 - `TidyTuesday` is organized by the R4DS Online Learning Community. [Join our Slack](https://r4ds.io/join) for free online help with R and other data-related topics, or to participate in a data-related book club!
