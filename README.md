@@ -19,7 +19,7 @@ Filter the dataset of English-language books for 100 to 200 books that fit the c
 | NO. | Date | Data | Source | Article
 | :---: | :---: | :--- | :--- | :---|
 | 1 | `2024-01-09` | [The dataset of Goodreads](books_1.Best_Books_Ever.csv) | [Google Dataset Search](https://doi.org/10.5281/zenodo.4265096)|
-| 3 | `2024-01-16` | [US Polling Places 2012-2020](data/2024/2024-01-16/readme.md) | [Center for Public Integrity](https://github.com/PublicI/us-polling-places) | [National data release sheds light on past polling place changes](https://publicintegrity.org/politics/elections/ballotboxbarriers/data-release-sheds-light-on-past-polling-place-changes/) |
+| 2 | `2024-01-16` | [The dataset of Lexile](Lexile_score.csv) | My original  |
 
 
 ***  
