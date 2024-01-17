@@ -24,44 +24,12 @@ Filter the dataset of English-language books for 100 to 200 books that fit the c
 
 ***  
 
-## Citing TidyTuesday
+## Project packages 
 
-To cite the `TidyTuesday` repo/project in publications use:
-
-  R4DS Online Learning Community (2023). Tidy Tuesday: A weekly social data project.
-  https://github.com/rfordatascience/tidytuesday.
-
-A BibTeX entry for LaTeX users is
-
-```
-  @misc{tidytuesday, 
-    title = {Tidy Tuesday: A weekly social data project}, 
-    author = {R4DS Online Learning Community}, 
-    url = {https://github.com/rfordatascience/tidytuesday}, 
-    year = {2023} 
-  }
-```
-
-Note: If you would like to cite the [tidytuesdayR](https://thebioengineer.github.io/tidytuesdayR/) package, you should use `citation("tidytuesdayR")` instead.
+The python packages included in this program include pandas, re, matplotlib, seaborn, ast, and counter.
 
 ***
 
-## Submitting Datasets
+## Apologize
 
-`TidyTuesday` is built around open datasets that are found in the "wild" or submitted as [Issues](https://github.com/rfordatascience/tidytuesday/issues) on our GitHub.
-
-If you find a dataset that you think would be interesting, you can approach it through two ways:
-
-### Submit the dataset as an Issue
-
-1. Find an interesting dataset  
-2. Find a report, blog post, article, etc relevant to the data   
-3. Submit the dataset as an [Issue](https://github.com/rfordatascience/tidytuesday/issues) along with a link to the article (and, ideally, 2 images from the article, with alt text)
-
-### Create an entire TidyTuesday challenge!  
-
-1. Find an interesting dataset  
-2. Find a report, blog post, article, etc relevant to the data (or create one yourself!)  
-3. Let us know you've found something interesting and are working on it by filing an [Issue](https://github.com/rfordatascience/tidytuesday/issues) on our GitHub  
-4. Provide a link or the raw data and a cleaning script for the data  
-5. Write a basic `readme.md` file using a recent `readme.md` as a template. Make sure to give yourself credit! 
+This is my first time to use and upload the file to Github, may be due to the use of the lack of proficiency and lead to some problems, I hope that both students or teachers to find problems in the program can be kindly pointed out, I will be seriously modified and hope to be able to share and exchange with more people to write the program experience. Many thanks.
