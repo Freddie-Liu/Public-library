@@ -3,8 +3,8 @@
 
 ## About this idea
 
-- `TidyTuesday` is a weekly social data project. All are welcome to participate! Please remember to share the code used to generate your results!
-- `TidyTuesday` is organized by the R4DS Online Learning Community. [Join our Slack](https://r4ds.io/join) for free online help with R and other data-related topics, or to participate in a data-related book club!
+- In fact, this idea came from a news article I read during my college days, which reported that China had opened public libraries in some poor areas and listed a list of screened books, but I felt a little bit regretful that all the books were in Chinese, I don't mean to say that this is a bad behavior, but I would like to bring some books in English to the people in poor areas, including the children, to broaden their horizons more. I would like to bring some English books to people in poor areas, including children, so as to broaden their horizons. So the purpose of this program is to select 100 to 200 English books that are less difficult to read, affordable, and have high ratings, and I hope I can really contribute to the world by donating these books in the future!
+
 
 ## Goals
 
