@@ -19,7 +19,7 @@ Filter the dataset of English-language books for 100 to 200 books that fit the c
 | NO. | Date | Data | Source | Additional instructions
 | :---: | :---: | :--- | :--- | :---|
 | 1 | `2024-01-09` | [The dataset of Goodreads](books_1.Best_Books_Ever.csv) | [Google Dataset Search](https://doi.org/10.5281/zenodo.4265096)|
-| 2 | `2024-01-16` | [The dataset of Lexile](Lexile_score.csv) | My original  |
+| 2 | `2024-01-16` | [The dataset of Lexile](Lexile_score.csv) | My original  | [Introduction to Lexile](https://en.wikipedia.org/wiki/Lexile)
 
 
 ***  
