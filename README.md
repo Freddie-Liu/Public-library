@@ -8,11 +8,7 @@
 
 ## Goals
 
-Our over-arching goal for TidyTuesday is to make learning to work with data easier, by providing real-world datasets.
-
-Our goal for 2023-2024 is to increase usage of #TidyTuesday within classrooms.
-We would like to be used in at least 10 courses by September 2024.
-If you are using TidyTuesday to teach data-related skills, [please let us know](https://forms.gle/G1Y7doYqRU89m9SE8)! 
+Filter the dataset of English-language books for 100 to 200 books that fit the criteria.
 
 ***
 
