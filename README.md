@@ -12,15 +12,6 @@ Filter the dataset of English-language books for 100 to 200 books that fit the c
 
 ***
 
-## How to Participate
-
-- Data is [posted to social media](dataset_announcements.md) every Monday morning. Follow the instructions in the new post for how to download the data.
-- [Explore the data](https://r4ds.hadley.nz/), watching out for interesting relationships. We would like to emphasize that you should not draw conclusions about **causation** in the data. There are various moderating variables that affect all data, many of which might not have been captured in these datasets. As such, our suggestion is to use the data provided to practice your data tidying and plotting techniques, and to consider for yourself what nuances might underlie these relationships.
-- Create a visualization, a model, a [shiny app](https://shiny.posit.co/), or some other piece of data-science-related output, using R or another programming language.
-- [Share your output and the code used to generate it](sharing.md) on social media with the #TidyTuesday hashtag.
-
-***
-
 ## DataSets
 
 ### [2018](data/2018) | [2019](data/2019) | [2020](data/2020)  | [2021](data/2021) | [2022](data/2022) | [2023](data/2023) | [2024](data/2024)
